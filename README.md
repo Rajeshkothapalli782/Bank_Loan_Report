@@ -5,8 +5,8 @@ This project involves creating an interactive dashboard using Excel to analyze l
 # Project Structure
 The project repository is organized as follows:
 
-* data/: Contains the dataset file.
-* dashboard/: Contains the Excel dashboard file.
+* Bank-logo.png/: It Contains logo of Bank.
+* Project_financial_loan.xlsx/: Contains the Excel dashboard file.
 * README.md: This README file.
   
 # Requirements
